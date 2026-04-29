@@ -9,3 +9,9 @@ pytest test_benchmark.py
 # Para ejecutar todo de un solo 
 pytest
 
+# Capturas 
+
+Unit test : ![alt text](image.png)
+
+Test_benchmark: ![alt text](image-1.png)
+
