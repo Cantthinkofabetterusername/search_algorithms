@@ -1,5 +1,9 @@
 # search_algorithms
 
+Comando para clonar repo:
+git clone git@github.com:Cantthinkofabetterusername/search_algorithms.git
+cd search_algorithms
+
 # Para ejecutar el unit testing
 pytest unit_test.py
 
